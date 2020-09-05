@@ -1,4 +1,4 @@
-# Welcome To Javascript
+# Welcome To Javascript: A JavaScript Coding Exercise
 
 Today, we are starting our journey into JavaScript. For this assignment, you
 will be making a program that demonstrates some JavaScript fundamentals.
